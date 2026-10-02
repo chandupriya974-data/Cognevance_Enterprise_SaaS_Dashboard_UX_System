@@ -2,9 +2,11 @@
 
 ## 1. Project Overview
 
-I designed an Enterprise SaaS Analytics Dashboard as part of my UI/UX design project.
+I designed an Enterprise SaaS Analytics Dashboard as 
+part of my UI/UX design project.
 
-The dashboard is designed to help users view business information, understand analytics, and monitor important data in one place.
+The dashboard is designed to help users view business information, 
+understand analytics, and monitor important data in one place.
 
 ## 2. Project Goal
 
@@ -90,7 +92,8 @@ The Analytics screen contains:
 - Analytics Insights
 - Date Filter
 
-Charts use consistent labels, grid lines, colors, and spacing to make the information easier to understand.
+Charts use consistent labels, grid lines, colors, and spacing to 
+make the information easier to understand.
 
 ## 9. Theme and Accessibility
 
@@ -123,9 +126,11 @@ This demonstrates a simple interaction in the prototype.
 
 ## 11. UX Audit
 
-I reviewed the dashboard for usability, consistency, accessibility, navigation, charts, themes, and interaction.
+I reviewed the dashboard for usability, consistency, accessibility,
+navigation, charts, themes, and interaction.
 
-The review helped identify areas where spacing, feedback, navigation, and accessibility could be improved.
+The review helped identify areas where spacing, feedback, navigation,
+and accessibility could be improved.
 
 I also performed a basic self-usability review of the dashboard.
 
@@ -163,4 +168,15 @@ The final project includes an enterprise-style analytics dashboard with:
 This project helped me understand how to design a complet
 e enterprise dashboard from the initial structure to the final prototype.
 
-I focused on keeping the interface simple, consistent, readable, and useful for viewing business analytics.
+I focused on keeping the interface simple, consistent, readable, 
+and useful for viewing business analytics.
+
+## 15. Project Links
+
+- Figma Design & Prototype:
+
+https://www.figma.com/design/zFJCBD5zk5CzrzMEoozzWL/Enterprise-SaaS-Analytics-Dashboard-UX-System
+  
+- GitHub Repository:
+
+   https://github.com/chandupriya974-data/cognevance_enterprise_saas_dashboard_ux_system
